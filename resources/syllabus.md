@@ -38,11 +38,15 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 
 ## Location
 
+The training will be held online.
+
 - where it will be available
 - physical location
 - URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
 
 ## Training Description
+
+A brief description of the training.
 
 - what is the main goal/purpose of this training
 - short training description
